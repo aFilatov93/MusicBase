@@ -1,0 +1,12 @@
+c:\csharp\Insert_Music\Insert_Music\bin\Release\Insert_Music.exe.config
+c:\csharp\Insert_Music\Insert_Music\bin\Release\Insert_Music.exe
+c:\csharp\Insert_Music\Insert_Music\bin\Release\Insert_Music.pdb
+c:\csharp\Insert_Music\Insert_Music\bin\Release\policy.2.0.taglib-sharp.dll
+c:\csharp\Insert_Music\Insert_Music\bin\Release\taglib-sharp.dll
+c:\csharp\Insert_Music\Insert_Music\bin\Release\policy.2.0.taglib-sharp.config
+c:\csharp\Insert_Music\Insert_Music\obj\Release\Insert_Music.MainForm.resources
+c:\csharp\Insert_Music\Insert_Music\obj\Release\Insert_Music.Properties.Resources.resources
+c:\csharp\Insert_Music\Insert_Music\obj\Release\Insert_Music.csproj.GenerateResource.Cache
+c:\csharp\Insert_Music\Insert_Music\obj\Release\Insert_Music.exe
+c:\csharp\Insert_Music\Insert_Music\obj\Release\Insert_Music.pdb
+c:\csharp\Insert_Music\Insert_Music\obj\Release\Insert_Music.csprojResolveAssemblyReference.cache
